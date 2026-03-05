@@ -1,0 +1,6 @@
+t-read
+*.exe
+.DS_Store
+*.test
+coverage.out
+.idea/
